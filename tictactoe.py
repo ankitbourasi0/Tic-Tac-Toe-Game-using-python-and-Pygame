@@ -5,7 +5,7 @@ import numpy as np
 pg.init()
 
 #CONSTANTS-----------------------------------------------------
-SCREEN_WIDTH = 800
+SCREEN_WIDTH = 900
 SCREEN_HEIGHT = SCREEN_WIDTH
 BG_COLOR = (28,170,156)
 LINE_COLOR = (23,145,135)
